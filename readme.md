@@ -4,4 +4,4 @@
 :heavy_check_mark: Uses **PySimpleGui** for simple graphic interface<br>
 :heavy_check_mark: Stores all the winning combinations in a list
 
-![Tic Tac Toe game in Python](https://github.com/zvikasan/TicTacToe-Python/blob/master/app_screenshot1.jpg?raw=true)
+![Tic Tac Toe game in Python](https://github.com/zvikasan/TicTacToe-Python/blob/master/app_screenshot2.jpg?raw=true)

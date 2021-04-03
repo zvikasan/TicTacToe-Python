@@ -31,7 +31,7 @@ layout = [
     ]
 
 # Create the window
-window = sg.Window("Tic Tac Toe by Greg", layout, margins=(100, 50))
+window = sg.Window("Tic Tac Toe", layout, margins=(100, 50))
 
 # This function does most of the work:
 # Switches players after each move
