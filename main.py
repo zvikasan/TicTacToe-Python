@@ -17,7 +17,7 @@ p1_win = 'Player1 Win'
 p2_win = 'Player2 Win'
 
 layout = [
-    [sg.Text("Tic Tac Toe Game by Greg")], 
+    [sg.Text("Tic Tac Toe Game")], 
     [sg.Text(f'{current_text}', key='player')],
     [sg.Button(' ', size=(4, 2), key=(a), pad=(0, 0))
      for a in range(1,4)],
